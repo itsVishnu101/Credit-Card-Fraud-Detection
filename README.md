@@ -100,8 +100,7 @@ Results and reports will be saved under `/reports`.
 * **Libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn, XGBoost, imbalanced-learn, SHAP
 
 ---
-
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-its--vishnu--verma-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/Email-ui22ec86@iiitsurat.ac.in-D14836?style=flat-square&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-its--vishnu--verma-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
+[![Email](https://img.shields.io/badge/Email-ui22ec86@iiitsurat.ac.in-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
